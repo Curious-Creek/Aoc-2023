@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aoc.2023.1.1", "Aoc.2023.1.1\Aoc.2023.1.1.csproj", "{82DF6CC4-EF00-4031-84C8-FD19FF7961ED}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aoc.2023.1.2", "Aoc.2023.1.2\Aoc.2023.1.2.csproj", "{14FA7193-BACD-4001-AEB2-9AC293C3643C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Input", "Input", "{5C7723C7-546C-49CF-A93B-3014A6B272DC}"
+	ProjectSection(SolutionItems) = preProject
+		dayone_input.txt = dayone_input.txt
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{82DF6CC4-EF00-4031-84C8-FD19FF7961ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82DF6CC4-EF00-4031-84C8-FD19FF7961ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{82DF6CC4-EF00-4031-84C8-FD19FF7961ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{82DF6CC4-EF00-4031-84C8-FD19FF7961ED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{14FA7193-BACD-4001-AEB2-9AC293C3643C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14FA7193-BACD-4001-AEB2-9AC293C3643C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14FA7193-BACD-4001-AEB2-9AC293C3643C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14FA7193-BACD-4001-AEB2-9AC293C3643C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
