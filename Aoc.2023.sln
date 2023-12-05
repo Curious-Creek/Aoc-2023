@@ -8,11 +8,16 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Input", "Input", "{5C7723C7
 	ProjectSection(SolutionItems) = preProject
 		dayone_input.txt = dayone_input.txt
 		daytwo_input.txt = daytwo_input.txt
+		daythree_input.txt = daythree_input.txt
 	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aoc.2023.2.1", "Aoc.2023.2.1\Aoc.2023.2.1.csproj", "{5EC076AC-00BF-4B68-B9A3-07C5CA785ECF}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aoc.2023.2.2", "Aoc.2023.2.2\Aoc.2023.2.2.csproj", "{DF0D84F0-5E54-47B0-94CC-579DDDAE782D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aoc.2023.3.1", "Aoc.2023.3.1\Aoc.2023.3.1.csproj", "{C48513B7-9D6C-48C4-A6F6-0279A09CE0F0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aoc.2023.3.2", "Aoc.2023.3.2\Aoc.2023.3.2.csproj", "{5FB4E69D-26FC-4AC8-AA8B-694AEAE0553B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -36,5 +41,13 @@ Global
 		{DF0D84F0-5E54-47B0-94CC-579DDDAE782D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DF0D84F0-5E54-47B0-94CC-579DDDAE782D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DF0D84F0-5E54-47B0-94CC-579DDDAE782D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C48513B7-9D6C-48C4-A6F6-0279A09CE0F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C48513B7-9D6C-48C4-A6F6-0279A09CE0F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C48513B7-9D6C-48C4-A6F6-0279A09CE0F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C48513B7-9D6C-48C4-A6F6-0279A09CE0F0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5FB4E69D-26FC-4AC8-AA8B-694AEAE0553B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5FB4E69D-26FC-4AC8-AA8B-694AEAE0553B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5FB4E69D-26FC-4AC8-AA8B-694AEAE0553B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5FB4E69D-26FC-4AC8-AA8B-694AEAE0553B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
