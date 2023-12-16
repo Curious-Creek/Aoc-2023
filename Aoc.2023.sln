@@ -1,23 +1,31 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aoc.2023.1.1", "Aoc.2023.1.1\Aoc.2023.1.1.csproj", "{82DF6CC4-EF00-4031-84C8-FD19FF7961ED}"
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34309.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Aoc.2023.1.1", "Aoc.2023.1.1\Aoc.2023.1.1.csproj", "{82DF6CC4-EF00-4031-84C8-FD19FF7961ED}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aoc.2023.1.2", "Aoc.2023.1.2\Aoc.2023.1.2.csproj", "{14FA7193-BACD-4001-AEB2-9AC293C3643C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Aoc.2023.1.2", "Aoc.2023.1.2\Aoc.2023.1.2.csproj", "{14FA7193-BACD-4001-AEB2-9AC293C3643C}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Input", "Input", "{5C7723C7-546C-49CF-A93B-3014A6B272DC}"
 	ProjectSection(SolutionItems) = preProject
+		dayfour_input.txt = dayfour_input.txt
 		dayone_input.txt = dayone_input.txt
-		daytwo_input.txt = daytwo_input.txt
 		daythree_input.txt = daythree_input.txt
+		daytwo_input.txt = daytwo_input.txt
 	EndProjectSection
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aoc.2023.2.1", "Aoc.2023.2.1\Aoc.2023.2.1.csproj", "{5EC076AC-00BF-4B68-B9A3-07C5CA785ECF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Aoc.2023.2.1", "Aoc.2023.2.1\Aoc.2023.2.1.csproj", "{5EC076AC-00BF-4B68-B9A3-07C5CA785ECF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aoc.2023.2.2", "Aoc.2023.2.2\Aoc.2023.2.2.csproj", "{DF0D84F0-5E54-47B0-94CC-579DDDAE782D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Aoc.2023.2.2", "Aoc.2023.2.2\Aoc.2023.2.2.csproj", "{DF0D84F0-5E54-47B0-94CC-579DDDAE782D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aoc.2023.3.1", "Aoc.2023.3.1\Aoc.2023.3.1.csproj", "{C48513B7-9D6C-48C4-A6F6-0279A09CE0F0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Aoc.2023.3.1", "Aoc.2023.3.1\Aoc.2023.3.1.csproj", "{C48513B7-9D6C-48C4-A6F6-0279A09CE0F0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aoc.2023.3.2", "Aoc.2023.3.2\Aoc.2023.3.2.csproj", "{5FB4E69D-26FC-4AC8-AA8B-694AEAE0553B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Aoc.2023.3.2", "Aoc.2023.3.2\Aoc.2023.3.2.csproj", "{5FB4E69D-26FC-4AC8-AA8B-694AEAE0553B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Aoc.2023.4.1", "Aoc.2023.4.1\Aoc.2023.4.1.csproj", "{3D120E8D-D72C-4E57-8496-95F2B6E4D62D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aoc.2023.4.2", "Aoc.2023.4.2\Aoc.2023.4.2.csproj", "{32DB8FA3-EE45-4938-88E4-A15A36C12103}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -49,5 +57,19 @@ Global
 		{5FB4E69D-26FC-4AC8-AA8B-694AEAE0553B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5FB4E69D-26FC-4AC8-AA8B-694AEAE0553B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5FB4E69D-26FC-4AC8-AA8B-694AEAE0553B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3D120E8D-D72C-4E57-8496-95F2B6E4D62D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D120E8D-D72C-4E57-8496-95F2B6E4D62D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D120E8D-D72C-4E57-8496-95F2B6E4D62D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D120E8D-D72C-4E57-8496-95F2B6E4D62D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{32DB8FA3-EE45-4938-88E4-A15A36C12103}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32DB8FA3-EE45-4938-88E4-A15A36C12103}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32DB8FA3-EE45-4938-88E4-A15A36C12103}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32DB8FA3-EE45-4938-88E4-A15A36C12103}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B2CFB79F-6F4B-420E-B6AD-36D93703A8E8}
 	EndGlobalSection
 EndGlobal
