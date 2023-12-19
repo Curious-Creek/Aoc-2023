@@ -3,13 +3,13 @@
     <PropertyGroup>
         <OutputType>Exe</OutputType>
         <TargetFramework>net8.0</TargetFramework>
-        <RootNamespace>Aoc._2023._4._1</RootNamespace>
+        <RootNamespace>Aoc._2023._5._1</RootNamespace>
         <ImplicitUsings>enable</ImplicitUsings>
         <Nullable>enable</Nullable>
     </PropertyGroup>
 
     <Target Name="CopyInput" AfterTargets="AfterBuild">
-        <Copy SourceFiles="../dayfour_input.txt" DestinationFolder="$(OutDir)" />
+        <Copy SourceFiles="../dayfive_input.txt" DestinationFolder="$(OutDir)" />
     </Target>
-    
+
 </Project>

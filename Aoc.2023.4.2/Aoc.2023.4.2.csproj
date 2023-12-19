@@ -8,12 +8,6 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
-  <ItemGroup>
-    <None Update="test.txt">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </None>
-  </ItemGroup>
-
   <Target Name="CopyInput" AfterTargets="AfterBuild">
     <Copy SourceFiles="../dayfour_input.txt" DestinationFolder="$(OutDir)" />
   </Target>

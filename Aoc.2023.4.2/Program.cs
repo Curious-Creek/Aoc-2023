@@ -15,6 +15,7 @@ for (int i = 0; i < input.Length; i++)
     {
         if (winningNumbers.Contains(cardNumbers[i]))
         {
+            int cards = numberOfCards[i + 1] * numberOfCards[i];
             numberOfCards[i + 1]++;
         }
     }
